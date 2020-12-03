@@ -203,7 +203,7 @@ li {
 }
 
 .landing-text h1 {
-    font-size: 20rem;
+    font-size: 1500%;
     font-family: 'Dancing Script', sans-serif;
     background: linear-gradient(to top, #ffe838, #fd57bf);
     -webkit-background-clip: text;
